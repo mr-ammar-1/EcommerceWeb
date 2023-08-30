@@ -1,0 +1,43 @@
+.banner-text{
+    position:absolute;
+    top: 30%;
+    color:#fff;
+    padding: 100px;
+}
+.banner-text h4{
+font-size: 50px;
+text-transform: uppercase;
+font-weight:bold ;
+margin-bottom: 5px;
+}
+.banner-text p{
+    font-size: 20px;
+}
+.collection{
+    padding-left: 600px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #fff;
+
+}
+.cards{
+    margin-right: 20px;
+  
+}
+.card1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.collection h3{
+    font-size:50px;
+}
+.buttons{
+    
+    margin-right: 20px;
+}
+.bg{
+background-color: grey;
+}
+.forms{
+    width: 40%;
+}

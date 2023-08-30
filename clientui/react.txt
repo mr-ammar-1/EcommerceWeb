@@ -1,0 +1,64 @@
+express + node js
+packages
+
+express
+1. jwt
+2. bcrypt
+3. 
+
+
+
+
+
+
+1. useEffect
+2. axios
+3. api call
+4. antd
+5. async + await
+6. try + catch
+7. Spread operator
+
+
+--- Append Object
+
+
+courses
+    courses
+    lecture
+     -------> Category ---> Table
+
+     duration
+     price - charges
+     popular
+     reviews
+     
+
+
+
+LMS
+
+Model
+  course.js
+routes
+  course.js
+Controlles
+  course.js
+
+auth == Middleware
+
+server.js
+
+packages.json
+
+
+course
+users
+    instructor
+    subscriber
+    admin
+
+block
+un-block
+
+facebook - 
